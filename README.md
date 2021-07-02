@@ -19,3 +19,5 @@
 + [Web Hacking 2](./Web_Hacking_2_WRITEUP.md)
 
 + [Web Hacking 3](./Web_Hacking_3_WRITEUP.md)
+
++ [Desafios VMs 1](./Desafios_VMs_1_WRITEUP.md)

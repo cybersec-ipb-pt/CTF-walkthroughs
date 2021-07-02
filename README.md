@@ -23,3 +23,5 @@
 + [Desafios VMs 1](./Desafios_VMs_1_WRITEUP.md)
 
 + [Desafios VMs 2](./Desafios_VMs_2_WRITEUP.md)
+
++ [Desafios VMs 3](./Desafios_VMs_3_WRITEUP.md)

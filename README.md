@@ -13,3 +13,9 @@
 + [Análise Forense 2](./Análise_Forense_2_WRITEUP.md)
 
 + [Análise Forense 3](./Análise_Forense_3_WRITEUP.md)
+
++ [Web Hacking 1](./Web_Hacking_1_WRITEUP.md)
+
++ [Web Hacking 2](./Web_Hacking_2_WRITEUP.md)
+
++ [Web Hacking 3](./Web_Hacking_3_WRITEUP.md)

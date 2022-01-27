@@ -13,7 +13,7 @@ Forensic analysis.
 - analise_forense_2.txt
 
 ```
-A system maintained by Altice Labs, was the target of multiple attacks. Analyze the log and discover the timestamp in which the "Command Injection" attack occurred.
+A system maintained by IPB, was the target of multiple attacks. Analyze the log and discover the timestamp in which the "Command Injection" attack occurred.
 ```
 
 ## Exploit
